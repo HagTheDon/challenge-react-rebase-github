@@ -7,6 +7,7 @@ test('renders My really cool blog site logo', () => {
   expect(linkElement).toBeInTheDocument();
 });
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
@@ -26,3 +27,5 @@ test('renders Auto Review Article', () => {
 });
 >>>>>>> b7f6f32... feat: add Auto Review article
 >>>>>>> f5118e3... feat: add Auto Review article
+=======
+>>>>>>> 347e2e6... fiat lux
